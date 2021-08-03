@@ -7,6 +7,9 @@ img{
 }
 body{
     background:lightblue;
+    border: dotted midnightblue;
+    border-width: 10px;
+    margin:10px;
 }
 .text_images_and_result{
     background-color: midnightblue;
@@ -19,4 +22,9 @@ body{
 h1{
     font-family: 'Style Script', cursive;
     color:navy;
+    font-weight: bold;
+}
+#img{
+    width:100px;
+    height: 100px;
 }
